@@ -1,5 +1,1 @@
-y =1946
-
-n = int(input())
-
-print(n-y)
+print(int(input())-1946)
