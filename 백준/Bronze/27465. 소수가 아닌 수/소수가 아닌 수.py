@@ -1,0 +1,1 @@
+print((int(input())*0)+10**9)
